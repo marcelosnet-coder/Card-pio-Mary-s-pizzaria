@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Mary's Pizzaria Online",
+  "description": "Aplicativo de pedidos online para a Mary's Pizzaria com sistema de meio a meio, combos e integração com WhatsApp.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
